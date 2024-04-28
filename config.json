@@ -1,7 +1,7 @@
 {
-    "token": "put-token-here",
-    "prefix": "!",
-    "genChannel": "gen-channel-id",
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "genChannel": "CHANNEL-ID",
     "genCooldown": "1000",
     "color": {
         "green": "0x57F287",
