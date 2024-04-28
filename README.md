@@ -7,8 +7,6 @@
 
 - [🔰・Features](#features)
 - [⚙・Config](#config)
-## <a id="deploys"></a>☄ » Deploys
-> [Deploy with REPLIT](https://replit.com/github/Nekros-dsc/Gen-Bot)
 
 ## <a id="features"></a>🛠 » Features
 All Commands: 
