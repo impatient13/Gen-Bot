@@ -1,5 +1,5 @@
 <h1 align="center">
- 🧬Gen Bot⚙
+ Gen Bot
 </h1>
 
 ---
