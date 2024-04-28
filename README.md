@@ -20,9 +20,9 @@ All Commands:
 # <a id="config"></a>⚙ » Config
 
 ```js
-    "token": "put-token-here",
-    "prefix": "!",
-    "genChannel": "gen-channel-id",
+    "token": "TOKEN",
+    "prefix": "PREFIX",
+    "genChannel": "CHANNEL-ID",
 ```
 
 ---
