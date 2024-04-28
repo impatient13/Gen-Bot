@@ -3,9 +3,9 @@
 </h1>
 
 ---
-## <a id="menu"></a>🔱 » Menu
+## <a id="menu"></a>🇫🇷 » Menu
 
-- [🔰・Features](#features)
+- [🛠・Features](#features)
 - [⚙・Config](#config)
 
 ## <a id="features"></a>🛠 » Features
